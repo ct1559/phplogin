@@ -23,14 +23,14 @@ body {
   color: #355070;
   font-size: 30px;
   padding: 20px;
-  border-bottom: 1px solid #eaac8b;
+  border-bottom: 1px solid #355070;
 }
 
 .login form {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  padding: 15px;
+  padding-top: 15px;
 }
 
 .login form label {
